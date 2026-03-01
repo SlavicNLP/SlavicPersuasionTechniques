@@ -1,3 +1,7 @@
-# This repository contains the dataset used in the article: “A Corpus of Persuasion Techniques in Slavic Languages”
+# A Corpus of Persuasion Techniques in Slavic Languages
 
-For reviewing period we publish only sample of training data for each Slavic language.
+### Persuasion in Slavic Languages: Parliamentary Debates and Social Media
+
+This repository includes code used for experiments described in section 5.2.1 for paper published at LREC 2026 with title "A Corpus of Persuasion Techniques in Slavic Languages"
+
+Software License: MIT License
